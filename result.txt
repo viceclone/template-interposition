@@ -1,0 +1,4 @@
+function symbol call(): _ZN2ns1AINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4callEv
+typeID of the template:   N2ns1AINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE
+function pointer:        MN2ns1AINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEFvvE
+libinterposition.so:    _ZN2ns1AINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE4callEv
